@@ -14,4 +14,4 @@ CER: 14.153460413385194
 WER: 39.51744127948075
 ```
 
-Some of our experiments are not shown in this repository as they were deemed either irrelevant, or utterly wrong
+Some of our experiments are not shown in this repository as they were deemed either irrelevant, or utterly wrong. Data exploration is shown in the notebook `Basaa_playground.ipynb` in the root folder
