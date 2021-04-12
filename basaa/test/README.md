@@ -13,3 +13,5 @@ Results on test data (out_ans_test.tsv )
 CER: 14.153460413385194
 WER: 39.51744127948075
 ```
+
+Some of our experiments are not shown in this repository as they were deemed either irrelevant, or utterly wrong
